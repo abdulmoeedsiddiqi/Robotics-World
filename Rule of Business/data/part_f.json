@@ -1,0 +1,26 @@
+{
+  "part": "E",
+  "title": "LEGISLATION",
+  "rules": [
+    {
+      "number": "31",
+      "title": "Compliance with Rules of Majlis-e-Shoora (Parliament)",
+      "content": "All Divisions must comply with the Rules of Procedure and Standing Orders of the National Assembly, the Senate, or a joint sitting of Majlis-e-Shoora (Parliament), depending on the context of their interaction."
+    },
+    {
+      "number": "32",
+      "title": "Summoning of Majlis-e-Shoora (Parliament), a House or Joint Sitting by the President",
+      "content": "(1) The Secretary of the Parliamentary Affairs Division shall assess the status of business pending before the Assembly, the Senate, or a joint sitting.\n(2) In accordance with Rule 15-A, the Secretary Parliamentary Affairs Division shall obtain the President's orders for summoning the relevant House(s) and communicate the session's date, time, and venue to:\n(a) the Secretary of the Assembly, if it concerns the Assembly;\n(b) the Secretary of the Senate, if it concerns the Senate;\n(c) both Secretaries, if it concerns both Houses or a joint sitting.\n(3) Upon receiving this communication, the session's schedule shall be notified in the Gazette by:\n(a) the Secretary of the Assembly, for the Assembly;\n(b) the Secretary of the Senate, for the Senate;\n(c) both Secretaries, for joint sittings or both Houses."
+    },
+    {
+      "number": "33",
+      "title": "Prorogation of Majlis-e-Shoora (Parliament), a House, or Joint Sitting by the President",
+      "content": "(1) The Secretary Parliamentary Affairs Division shall, under Rule 15-A, obtain the President's orders for prorogation and communicate the information to:\n(a) the Secretary of the Assembly, if it concerns the Assembly;\n(b) the Secretary of the Senate, if it concerns the Senate;\n(c) both Secretaries, if it concerns both Houses or a joint sitting.\n(2) After receiving this communication, the prorogation shall be notified in the Gazette by:\n(a) the Secretary of the Assembly, for the Assembly;\n(b) the Secretary of the Senate, for the Senate;\n(c) both Secretaries, for joint sittings or both Houses."
+    },
+    {
+      "number": "34",
+      "title": "Summoning and Prorogation of National Assembly by the Speaker",
+      "content": "(1) When the Speaker summons the Assembly under clause (3) of Article 54, the Secretary of the Assembly shall notify the session's date, time, and venue in the Gazette.\n(2) When the Speaker prorogues the Assembly under the same clause, the date of prorogation shall also be notified in the Gazette by the Secretary of the Assembly."
+    }
+  ]
+}

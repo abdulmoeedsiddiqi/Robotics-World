@@ -1,0 +1,80 @@
+[
+  {
+    "part": "IV",
+    "title": "CASES REQUIRING PRESIDENT’S ORDERS",
+    "rules": [
+      {
+        "number": "1",
+        "title": "Promulgation of Ordinances",
+        "content": "Promulgation of ordinances under Article 89 of the Constitution when Parliament is not in session, requiring the President’s approval on the Prime Minister’s advice."
+      },
+      {
+        "number": "2",
+        "title": "Appointments of Judges",
+        "content": "Appointment of Supreme Court and High Court judges under Articles 177 and 193 of the Constitution, requiring the President’s orders."
+      },
+      {
+        "number": "3",
+        "title": "Dissolution of National Assembly",
+        "content": "Dissolution of the National Assembly on the Prime Minister’s advice under Article 58 of the Constitution, requiring the President’s approval."
+      },
+      {
+        "number": "4",
+        "title": "Emergency Declarations",
+        "content": "Proclamation of emergencies under Article 232 of the Constitution, requiring the President’s orders."
+      }
+    ]
+  },
+  {
+    "part": "V-A",
+    "title": "CASES REQUIRING CONSULTATION WITH ESTABLISHMENT DIVISION",
+    "rules": [
+      {
+        "number": "1",
+        "title": "Senior Appointments",
+        "content": "Appointments to Grade 20 and above posts in the federal government, requiring consultation with the Establishment Division."
+      },
+      {
+        "number": "2",
+        "title": "Civil Service Rules",
+        "content": "Framing or amending rules for civil service recruitment, promotion, or conditions of service, requiring consultation with the Establishment Division."
+      },
+      {
+        "number": "3",
+        "title": "Deputation of Officers",
+        "content": "Deputation of federal officers to provincial governments or international organizations, requiring consultation with the Establishment Division."
+      },
+      {
+        "number": "4",
+        "title": "Disciplinary Actions",
+        "content": "Major disciplinary actions against Grade 17 and above officers, requiring consultation with the Establishment Division."
+      }
+    ]
+  },
+  {
+    "part": "V-B",
+    "title": "CASES REQUIRING CONSULTATION WITH FINANCE DIVISION",
+    "rules": [
+      {
+        "number": "1",
+        "title": "Budget Allocations",
+        "content": "Proposals for new expenditure or reallocation of budget funds, requiring consultation with the Finance Division."
+      },
+      {
+        "number": "2",
+        "title": "Tax Proposals",
+        "content": "Introduction, alteration, or abolition of taxes, requiring consultation with the Finance Division."
+      },
+      {
+        "number": "3",
+        "title": "Public Loans",
+        "content": "Floating of federal loans or issuance of government guarantees, requiring consultation with the Finance Division."
+      },
+      {
+        "number": "4",
+        "title": "Foreign Grants",
+        "content": "Acceptance of foreign grants or loans with financial implications, requiring consultation with the Finance Division."
+      }
+    ]
+  }
+]

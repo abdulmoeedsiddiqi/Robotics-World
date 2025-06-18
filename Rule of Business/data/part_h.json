@@ -1,0 +1,26 @@
+{
+  "part": "E",
+  "title": "LEGISLATION",
+  "rules": [
+    {
+      "number": "51",
+      "title": "Proclamation in Case of Emergency",
+      "content": "(1) The Proclamation in case of a grave emergency, where the security of Pakistan or any part thereof is threatened by war, external aggression, or internal disturbance beyond the control of a Provincial Government, shall be issued by the Cabinet Division in terms of rule 15-A.\n(2) The concerned Divisions shall keep in view clauses (2) to (8) of Article 232 for making necessary legislation during the emergency and for submission of the Proclamation to the joint sitting or the Senate, as applicable.\n(3) Rules 27, 28, 29, and 30 shall apply mutatis mutandis for the purpose of legislation while a Proclamation of Emergency is in force."
+    },
+    {
+      "number": "52",
+      "title": "Failure of Constitutional Machinery in a Province",
+      "content": "(1) The Proclamation in case of failure of constitutional machinery in a Province shall be issued by the Cabinet Division in terms of rule 15-A.\n(2) The concerned Division shall take into account clauses (3) to (6) of Article 234 for making legislation, if required, during the emergency and for submission of the Proclamation to the joint sitting or the Senate, as applicable.\n(3) Rules 27, 28, 29, and 30 shall apply mutatis mutandis for the purpose of legislation while a Proclamation of Emergency is in force."
+    },
+    {
+      "number": "53",
+      "title": "Proclamation in Case of Financial Stringency",
+      "content": "(1) The Proclamation in case of financial stringency shall be issued by the Finance Division in terms of rule 15-A.\n(2) The Finance Division shall take into account clause (4) of Article 235 for submission of the Proclamation to the joint sitting or the Senate, as applicable."
+    },
+    {
+      "number": "54",
+      "title": "Revocation of Proclamation, etc.",
+      "content": "A Proclamation issued under rules 51, 52, or 53 shall be varied or revoked by a subsequent Proclamation issued by the respective Division."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "part": "E",
+  "title": "LEGISLATION",
+  "rules": [
+    {
+      "number": "27",
+      "title": "Official Bills",
+      "content": "The concerned Division is responsible for preparing the contents of the proposed legislation, consulting relevant Divisions including Finance, and obtaining Cabinet approval (Rule 16(1)(a)) before requesting the Law and Justice Division to draft the Bill. Cabinet approval is not required for formal or verbal amendments.\n\nOnce approved, the Division sends relevant papers and a memorandum detailing the provisions and their objectives to the Law and Justice Division. The Law and Justice Division ensures legislative competence, verifies any constitutional or legal prerequisites, and advises accordingly.\n\nIf Presidential or Federal Government consent is required, the Law and Justice Division drafts these alongside the Bill. The Division then:\n(a) submits the draft Bill to the Cabinet for final approval,\n(b) seeks the Prime Minister’s approval (if not already given),\n(c) obtains the Prime Minister’s or President’s signature as required,\nand returns the Bill to the Law and Justice Division.\n\nCabinet may waive sub-rule (5)(a) requirements under special circumstances. The Division must also include Cabinet directions in the Minister’s brief.\n\nThe Law and Justice Division may also initiate legislation for codification or consolidation but will consult the concerned Division for administrative input.\n\nThe final draft, with a signed Statement of Objects and Reasons from the Minister-in-Charge, is submitted to the Law and Justice Division, which then sends it to the Parliamentary Affairs Division for introduction in the appropriate House."
+    },
+    {
+      "number": "28",
+      "title": "Non-Official Bills",
+      "content": "The concerned Division evaluates the administrative implications of the proposed non-official Bill and consults other relevant Divisions, including Finance. It then consults the Law and Justice Division on legal implications and constitutional competence.\n\nThe Law and Justice Division also advises on whether any legal requirements or Presidential/Federal Government consents are needed.\n\nThe Minister-in-Charge then decides whether to support or oppose the Bill or refer it to a committee or public opinion. The Division obtains the Prime Minister's or President’s signature, as required, before the Bill is introduced."
+    },
+    {
+      "number": "29",
+      "title": "Official and Non-Official Amendments to Bills",
+      "content": "Official amendments to Bills follow the same process as official Bills. Non-official amendments follow the same procedure as non-official Bills. The sponsoring Division consults relevant Divisions, obtains Cabinet approval, and seeks legal vetting from the Law and Justice Division before supporting or opposing amendments."
+    },
+    {
+      "number": "30",
+      "title": "Ordinances",
+      "content": "The procedure for proposing Ordinances mirrors that of official Bills under Rule 27. The Law and Justice Division promulgates the Ordinance and arranges for it to be laid before:\n(i) the Assembly, if it pertains to matters under Article 73(2), or\n(ii) both Houses, if not.\n\nTo withdraw an Ordinance, the concerned Division must obtain the President’s approval through the Prime Minister."
+    }
+  ]
+}
